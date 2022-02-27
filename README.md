@@ -1,0 +1,2 @@
+# Data-Visualization-Car-Dealership
+RenewCar is a well-known secondhand vehicle dealer, who intends to automate the process of measuring the fuel economy of the cars in their inventory. They've been meticulously gathering information on all of the cars they've sold over the years. In order to start with the automation project, the company wants to use all of this information to perform an EDA for a better understanding of the data. This pilot project has been assigned to you, RenewCar's resident Data Scientist.
